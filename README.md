@@ -1,8 +1,8 @@
-# Hello, World! - Hacktoberfest 2019
+# Hello, World! - Hacktoberfest 2019 :rocket:
 
 Submit a PR solving Hello, World! in a different language
 
-## Rules
+## Rules :pencil:
 
 * Program should print "Hello, World!"
 * Create a file in `languages` with the language name as the file name (followed by the language file extension)
