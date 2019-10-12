@@ -1,6 +1,6 @@
 # Hello, World! - Hacktoberfest 2019 :rocket:
 
-Submit a PR solving Hello, World! in a different language
+Submit a PR solving Hello, World! in a different language.
 
 ## Rules :pencil:
 
